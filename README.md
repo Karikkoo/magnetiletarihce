@@ -1,0 +1,2 @@
+# magnetiletarihce
+turistik yerlerin bilgileri
